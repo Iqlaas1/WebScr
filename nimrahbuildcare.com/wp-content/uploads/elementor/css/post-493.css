@@ -1,0 +1,461 @@
+.elementor-493 .elementor-element.elementor-element-0d81175:not(.elementor-motion-effects-element-type-background),
+.elementor-493 .elementor-element.elementor-element-0d81175>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-accent);
+}
+
+.elementor-493 .elementor-element.elementor-element-0d81175>.elementor-background-overlay {
+    background-image: url("https://nimrahbuildcare.com/wp-content/uploads/2024/02/construction-building-maintenance-management-team.webp");
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.09;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-0d81175>.elementor-container {
+    max-width: 1150px;
+}
+
+.elementor-493 .elementor-element.elementor-element-0d81175 {
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: var( --e-global-color-619e345);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 80px 98px 80px 98px;
+}
+
+.elementor-493 .elementor-element.elementor-element-620fad3:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-493 .elementor-element.elementor-element-620fad3>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-bc-flex-widget .elementor-493 .elementor-element.elementor-element-620fad3.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-493 .elementor-element.elementor-element-620fad3.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-493 .elementor-element.elementor-element-620fad3.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-493 .elementor-element.elementor-element-620fad3>.elementor-element-populated,
+.elementor-493 .elementor-element.elementor-element-620fad3>.elementor-element-populated>.elementor-background-overlay,
+.elementor-493 .elementor-element.elementor-element-620fad3>.elementor-background-slideshow {
+    border-radius: 25px 25px 25px 25px;
+}
+
+.elementor-493 .elementor-element.elementor-element-620fad3>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-620fad3>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-c3b9c48>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-c3b9c48 img {
+    width: 80%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-493 .elementor-element.elementor-element-89e002f>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 24px;
+}
+
+.elementor-493 .elementor-element.elementor-element-89e002f>.elementor-element-populated {
+    margin: 0px 0px 0px 40px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 40px;
+}
+
+.elementor-493 .elementor-element.elementor-element-4e9e6cf .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 24px;
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(8px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(8px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(8px/2);
+    margin-left: calc(8px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-8px/2);
+    margin-left: calc(-8px/2);
+}
+
+body.rtl .elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-8px/2);
+}
+
+body:not(.rtl) .elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-8px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-icon i {
+    color: #F5B617;
+    transition: color 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-icon svg {
+    fill: #F5B617;
+    transition: fill 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-text {
+    color: #FFFFFF;
+    transition: color 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-dbc1963 .elementor-icon-list-item:hover .elementor-icon-list-text {
+    color: #F5B617;
+}
+
+.elementor-493 .elementor-element.elementor-element-181d877>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 24px;
+}
+
+.elementor-493 .elementor-element.elementor-element-181d877>.elementor-element-populated {
+    margin: 0px 0px 0px 40px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 40px;
+}
+
+.elementor-493 .elementor-element.elementor-element-60b71aa .elementor-heading-title {
+    font-family: "Inter", Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 24px;
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(16px/2);
+    margin-left: calc(16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-16px/2);
+    margin-left: calc(-16px/2);
+}
+
+body.rtl .elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-16px/2);
+}
+
+body:not(.rtl) .elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-icon i {
+    color: var( --e-global-color-2a098f1);
+    transition: color 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-2a098f1);
+    transition: fill 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-icon {
+    padding-right: 21px;
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-8037428-font-family), Sans-serif;
+    font-size: var( --e-global-typography-8037428-font-size);
+    font-weight: var( --e-global-typography-8037428-font-weight);
+    line-height: var( --e-global-typography-8037428-line-height);
+}
+
+.elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-text {
+    color: var( --e-global-color-secondary);
+    transition: color 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-75725f6>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 24px;
+}
+
+.elementor-493 .elementor-element.elementor-element-c7884aa .elementor-heading-title {
+    font-family: var( --e-global-typography-7e72b76-font-family), Sans-serif;
+    font-size: var( --e-global-typography-7e72b76-font-size);
+    font-weight: var( --e-global-typography-7e72b76-font-weight);
+    text-transform: var( --e-global-typography-7e72b76-text-transform);
+    line-height: var( --e-global-typography-7e72b76-line-height);
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda {
+    width: var( --container-widget-width, 122.666%);
+    max-width: 122.666%;
+    --container-widget-width: 122.666%;
+    --container-widget-flex-grow: 0;
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(16px/2);
+    margin-left: calc(16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-16px/2);
+    margin-left: calc(-16px/2);
+}
+
+body.rtl .elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-16px/2);
+}
+
+body:not(.rtl) .elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-16px/2);
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-icon i {
+    color: var( --e-global-color-2a098f1);
+    transition: color 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-2a098f1);
+    transition: fill 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-icon {
+    padding-right: 21px;
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-item>a {
+    font-family: "Plus Jakarta Sans", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-text {
+    color: var( --e-global-color-secondary);
+    transition: color 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-repeater-item-accf5fd.elementor-social-icon {
+    background-color: #06A440;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-repeater-item-9a6b555.elementor-social-icon {
+    background-color: #06A440;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-repeater-item-f4c62ea.elementor-social-icon {
+    background-color: #06A440;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-repeater-item-7301323.elementor-social-icon {
+    background-color: #06A440;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-repeater-item-c970f22.elementor-social-icon {
+    background-color: #06A440;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 {
+    --grid-template-columns: repeat(0, auto);
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+    --icon-size: 20px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234>.elementor-widget-container {
+    margin: 50px 0px 0px 0px;
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-social-icon i {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-social-icon svg {
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-493 .elementor-element.elementor-element-025f234 .elementor-social-icon {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #06A440;
+}
+
+.elementor-493 .elementor-element.elementor-element-5daf848:not(.elementor-motion-effects-element-type-background),
+.elementor-493 .elementor-element.elementor-element-5daf848>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-accent);
+}
+
+.elementor-493 .elementor-element.elementor-element-5daf848>.elementor-container {
+    max-width: 1440px;
+}
+
+.elementor-493 .elementor-element.elementor-element-5daf848 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 30px 20px 30px 20px;
+}
+
+.elementor-493 .elementor-element.elementor-element-5daf848>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper {
+    text-align: center;
+}
+
+.elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper a,
+.elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper {
+    color: #FFFFFF;
+}
+
+.elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper,
+.elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-493 .elementor-element.elementor-element-620fad3 {
+        width: 100%;
+    }
+    .elementor-493 .elementor-element.elementor-element-89e002f {
+        width: 100%;
+    }
+    .elementor-493 .elementor-element.elementor-element-181d877 {
+        width: 100%;
+    }
+    .elementor-493 .elementor-element.elementor-element-75725f6 {
+        width: 100%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-493 .elementor-element.elementor-element-0d81175 {
+        padding: 40px 40px 40px 40px;
+    }
+    .elementor-493 .elementor-element.elementor-element-620fad3>.elementor-element-populated {
+        margin: 0px 0px 40px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-493 .elementor-element.elementor-element-89e002f>.elementor-element-populated {
+        margin: 0px 0px 40px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-493 .elementor-element.elementor-element-181d877>.elementor-element-populated {
+        margin: 0px 0px 40px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-8037428-font-size);
+        line-height: var( --e-global-typography-8037428-line-height);
+    }
+    .elementor-493 .elementor-element.elementor-element-c7884aa .elementor-heading-title {
+        font-size: var( --e-global-typography-7e72b76-font-size);
+        line-height: var( --e-global-typography-7e72b76-line-height);
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-493 .elementor-element.elementor-element-0d81175 {
+        padding: 20px 20px 20px 20px;
+    }
+    .elementor-493 .elementor-element.elementor-element-4e9e6cf .elementor-heading-title {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .elementor-493 .elementor-element.elementor-element-60b71aa .elementor-heading-title {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-493 .elementor-element.elementor-element-247fd8b .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-8037428-font-size);
+        line-height: var( --e-global-typography-8037428-line-height);
+    }
+    .elementor-493 .elementor-element.elementor-element-c7884aa .elementor-heading-title {
+        font-size: var( --e-global-typography-7e72b76-font-size);
+        line-height: var( --e-global-typography-7e72b76-line-height);
+    }
+    .elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-493 .elementor-element.elementor-element-6712dda .elementor-icon-list-item>a {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper,
+    .elementor-493 .elementor-element.elementor-element-1e6ebae .hfe-copyright-wrapper a {
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
